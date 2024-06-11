@@ -12,7 +12,7 @@ This project is a multithreaded web scraper developed in Python. It scrapes data
 Clone the project repository from GitHub to your local machine:
 
 ```sh
-git clone https://github.com/Akshayparihar/Multi_Threaded_Web_Scraper.git
+git clone https://github.com/Akshayparihar07/Multi_Threaded_Web_Scraper.git
 cd multi_threaded_web_scraper
 ```
 
@@ -42,7 +42,7 @@ pip install BeautifulSoup Requests SQLAlchemy Logging Threadig
 Install All the other required Python packages listed in the `requirements.txt` file:
 
 ```sh
-pip install -r requirements.txt
+pip install -r rquirements.txt
 ```
 
 ### Step 4: Configure the PostgreSQL database
