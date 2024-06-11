@@ -36,7 +36,7 @@ source venv\Scripts\activate
 
 **Install Necessay Dependencies**: 
 ```sh
-pip install BeautifulSoup Requests SQLAlchemy Logging Threadig
+pip install BeautifulSoup Requests SQLAlchemy Logging Threading
 ```
 
 Install All the other required Python packages listed in the `requirements.txt` file:
