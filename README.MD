@@ -39,7 +39,7 @@ source venv\Scripts\activate
 pip install BeautifulSoup Requests SQLAlchemy Logging Threading
 ```
 
-Install All the other required Python packages listed in the `requirements.txt` file:
+Install All the other required Python packages listed in the `rquirements.txt` file:
 
 ```sh
 pip install -r rquirements.txt
