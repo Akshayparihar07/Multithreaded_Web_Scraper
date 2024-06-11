@@ -12,8 +12,8 @@ This project is a multithreaded web scraper developed in Python. It scrapes data
 Clone the project repository from GitHub to your local machine:
 
 ```sh
-git clone https://github.com/Akshayparihar07/Multi_Threaded_Web_Scraper.git
-cd multi_threaded_web_scraper
+git clone https://github.com/Akshayparihar07/Multithreaded_Web_Scraper.git
+cd multithreaded_web_scraper
 ```
 
 ### Step 2: Set up a Virtual Enviornment (optional)
