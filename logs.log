@@ -1,0 +1,85 @@
+2024-06-11 20:15:45,273 - INFO - Loading environment variables...
+2024-06-11 20:15:45,293 - INFO - Environment variables loaded successfully.
+2024-06-11 20:15:45,293 - INFO - Connecting to the database...
+2024-06-11 20:15:45,513 - INFO - Database connection established.
+2024-06-11 20:15:45,519 - INFO - Model class 'Product' created.
+2024-06-11 20:15:45,519 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2024-06-11 20:15:45,520 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+2024-06-11 20:15:45,521 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2024-06-11 20:15:45,521 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+2024-06-11 20:15:45,522 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/soumission_998/index.html
+2024-06-11 20:15:45,523 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/soumission_998/index.html
+2024-06-11 20:15:45,524 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2024-06-11 20:15:45,525 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html
+2024-06-11 20:15:45,541 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2024-06-11 20:15:45,541 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/the-requiem-red_995/index.html
+2024-06-11 20:15:45,545 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2024-06-11 20:15:45,545 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/the-black-maria_991/index.html
+2024-06-11 20:15:45,546 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2024-06-11 20:15:45,548 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html
+2024-06-11 20:15:45,550 - INFO - Starting the scraping process for URL: https://books.toscrape.com/catalogue/olio_984/index.html
+2024-06-11 20:15:45,551 - INFO - Started scraping thread for URL: https://books.toscrape.com/catalogue/olio_984/index.html
+2024-06-11 20:15:47,704 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,722 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,723 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,723 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,724 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,724 - INFO - Product title extracted: Sapiens: A Brief History of Humankind
+2024-06-11 20:15:47,725 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,725 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,741 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,754 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,754 - INFO - HTTP request successful, data fetched from URL
+2024-06-11 20:15:47,758 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,769 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,771 - INFO - Product price extracted: 54.23
+2024-06-11 20:15:47,788 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,798 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,819 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,820 - INFO - Product title extracted: Soumission
+2024-06-11 20:15:47,836 - INFO - HTML content parsed successfully
+2024-06-11 20:15:47,837 - INFO - Product title extracted: Olio
+2024-06-11 20:15:47,837 - INFO - Product title extracted: A Light in the Attic
+2024-06-11 20:15:47,838 - INFO - Product rating extracted: Five
+2024-06-11 20:15:47,838 - INFO - Product title extracted: The Requiem Red
+2024-06-11 20:15:47,838 - INFO - Product title extracted: Tipping the Velvet
+2024-06-11 20:15:47,840 - INFO - Product title extracted: The Black Maria
+2024-06-11 20:15:47,840 - INFO - Product price extracted: 50.10
+2024-06-11 20:15:47,841 - INFO - Product title extracted: Rip it Up and Start Again
+2024-06-11 20:15:47,842 - INFO - Product price extracted: 23.88
+2024-06-11 20:15:47,843 - INFO - Product price extracted: 51.77
+2024-06-11 20:15:47,845 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,845 - INFO - Product price extracted: 22.65
+2024-06-11 20:15:47,845 - INFO - Product price extracted: 53.74
+2024-06-11 20:15:47,846 - INFO - Product price extracted: 52.15
+2024-06-11 20:15:47,847 - INFO - Product rating extracted: One
+2024-06-11 20:15:47,847 - INFO - Product price extracted: 35.02
+2024-06-11 20:15:47,848 - INFO - Product rating extracted: One
+2024-06-11 20:15:47,849 - INFO - Product rating extracted: Three
+2024-06-11 20:15:47,860 - INFO - Product rating extracted: One
+2024-06-11 20:15:47,860 - INFO - Product rating extracted: One
+2024-06-11 20:15:47,861 - INFO - Product rating extracted: One
+2024-06-11 20:15:47,863 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,865 - INFO - Product rating extracted: Five
+2024-06-11 20:15:47,866 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,867 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,870 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,871 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,872 - INFO - Review count extracted: 0
+2024-06-11 20:15:47,875 - INFO - Review count extracted: 0
+2024-06-11 20:15:48,107 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,109 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,110 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,112 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,112 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,114 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,116 - INFO - Thread for URL completed: Thread-1 (scrape_page)
+2024-06-11 20:15:48,117 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,151 - INFO - Product data saved to the database successfully
+2024-06-11 20:15:48,152 - INFO - Thread for URL completed: Thread-2 (scrape_page)
+2024-06-11 20:15:48,152 - INFO - Thread for URL completed: Thread-3 (scrape_page)
+2024-06-11 20:15:48,152 - INFO - Thread for URL completed: Thread-4 (scrape_page)
+2024-06-11 20:15:48,153 - INFO - Thread for URL completed: Thread-5 (scrape_page)
+2024-06-11 20:15:48,153 - INFO - Thread for URL completed: Thread-6 (scrape_page)
+2024-06-11 20:15:48,153 - INFO - Thread for URL completed: Thread-7 (scrape_page)
+2024-06-11 20:15:48,153 - INFO - Thread for URL completed: Thread-8 (scrape_page)
