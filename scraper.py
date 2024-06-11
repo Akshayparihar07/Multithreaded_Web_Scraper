@@ -107,5 +107,10 @@ if __name__ == "__main__":
         "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
         "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
         "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "https://books.toscrape.com/catalogue/olio_984/index.html",
     ]
     main(product_urls)
